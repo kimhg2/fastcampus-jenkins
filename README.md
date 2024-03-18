@@ -2,6 +2,5 @@
 
 # fastcampus-jenkins
 
-00
 
-sinsiway
+example 1
