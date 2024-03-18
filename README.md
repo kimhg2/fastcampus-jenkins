@@ -3,4 +3,4 @@
 
 00
 
-convert
+convert -1 
