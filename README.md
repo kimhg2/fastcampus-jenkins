@@ -3,5 +3,3 @@
 # fastcampus-jenkins
 
 00
-
-sinsiway
